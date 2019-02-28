@@ -1,4 +1,4 @@
-## COLORS ##
+## Colors ##
 
 Color Hunt: http://www.colorhunt.co/
 
