@@ -29,6 +29,8 @@ Sketch (create mockups):  https://www.sketchapp.com/
 
 Pop App for wireframing (iOS):  https://itunes.apple.com/app/id555647796
 
+Wireframe | cc:  https://wireframe.cc/
+
 
 ## Patterns ## 
 
@@ -36,6 +38,52 @@ Mobile Patterns:  http://www.mobile-patterns.com/
 
 Pttrns:  http://pttrns.com/
 
+
+## Icons ##
+
+Flat Icon:  http://www.flaticon.com/
+
+Material.io:  https://material.io/icons/
+
+Font Awesome:  http://fontawesome.io/
+
+
+## HD photographic Images ##
+
+Resplashed:  http://www.resplashed.com/
+
+Pixabay:  https://pixabay.com/
+
+
+## Vector image ##
+
+Vectezy:  https://www.vecteezy.com/
+
+Freepik:  http://www.freepik.com/
+
+
+## Mocking ##
+
+Sketch:  https://www.sketchapp.com/
+
+Canva:  https://www.canva.com/
+
+Placeit:  https://placeit.net/
+
+Magic Mockups:  http://magicmockups.com/
+
+Smart Mockups:  http://smartmockups.com/
+
+
+## Prototypes ##
+
+Marvel:  https://marvelapp.com/
+
+InVision App:  https://www.invisionapp.com/
+
+Mac Keynote App:  http://www.apple.com/uk/keynote/
+
+Principle:  http://principleformac.com/
 
 
 
